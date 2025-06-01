@@ -49,7 +49,8 @@ SentinelX/
 
 ---
 
-📥 Installation
+## 📥 Installation
+
 Step 1: Clone the Repository
 git clone https://github.com/yourusername/sentinelx.git
 cd sentinelx
@@ -59,7 +60,6 @@ pip install -r requirements.txt
 
 Step 3: Create .env File
 Create a .env file in the root directory with the following format:
-
 .env
 EMAIL_ADDRESS=youremail@gmail.com
 EMAIL_PASSWORD=your_app_password
@@ -70,7 +70,7 @@ Get a free AbuseIPDB API key here: https://www.abuseipdb.com/
 
 ---
 
-🖥️ Running the Application
+## 🖥️ Running the Application
 Option 1: Run with Python
 python gui_app.py
 
